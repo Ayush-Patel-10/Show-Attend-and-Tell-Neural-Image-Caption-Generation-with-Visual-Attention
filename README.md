@@ -51,7 +51,7 @@ We evaluated the model on 2 metrics - BLUE and METEOR. We achieved a BLUE-1: 36 
 
 - Original Paper: https://arxiv.org/pdf/1502.03044.pdf
 
-For any issues, contributions, or questions, please feel free to reach out. \
+For any issues, contributions, or questions, please feel free to reach out. 
 
 Linkedln: https://www.linkedin.com/in/ayush-patel-ml/
 
